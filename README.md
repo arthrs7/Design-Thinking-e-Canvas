@@ -4,10 +4,10 @@
 Pessoas com direito a assentos reservados em cinemas enfrentam dificuldades para garantir seu lugar, pois outros clientes podem ocupá-los indevidamente.
 
 **2. Quem são os usuários impactados?**
-Pessoas com deficiência (PCD)
-Idosos
-Gestantes
-Funcionários do cinema que precisam intervir para desocupar os assentos
+Pessoas com deficiência (PCD);
+Idosos;
+Gestantes;
+Funcionários do cinema que precisam intervir para desocupar os assentos.
 
 **3. Quais insights você obteve sobre o problema?**
 Muitas pessoas não respeitam os assentos reservados.
